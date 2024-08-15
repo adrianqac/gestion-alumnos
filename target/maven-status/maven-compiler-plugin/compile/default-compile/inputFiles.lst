@@ -1,0 +1,15 @@
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Validation/FechaFuturaValidator.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Dto/AlumnoTarea.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Exception/AlumnoNotFoundException.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Controller/TareaRestController.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/GestionAlumnosApplication.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Entity/Tarea.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Config/DataLoader.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Repository/AlumnoRepository.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Exception/GlobalExceptionHandler.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Entity/Alumno.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Service/AlumnoService.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Controller/AlumnoRestController.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Exception/InvalidDateException.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Repository/TareaRepository.java
+/home/adrian-vazquez/IdeaProjects/gestion-alumnos/src/main/java/org/ejercicio/Validation/FechaFutura.java

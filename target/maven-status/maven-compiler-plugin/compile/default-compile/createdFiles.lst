@@ -1,0 +1,15 @@
+org/ejercicio/Exception/GlobalExceptionHandler.class
+org/ejercicio/Config/DataLoader.class
+org/ejercicio/Entity/Alumno.class
+org/ejercicio/Exception/AlumnoNotFoundException.class
+org/ejercicio/GestionAlumnosApplication.class
+org/ejercicio/Validation/FechaFuturaValidator.class
+org/ejercicio/Service/AlumnoService.class
+org/ejercicio/Repository/AlumnoRepository.class
+org/ejercicio/Entity/Tarea.class
+org/ejercicio/Exception/InvalidDateException.class
+org/ejercicio/Dto/AlumnoTarea.class
+org/ejercicio/Controller/AlumnoRestController.class
+org/ejercicio/Controller/TareaRestController.class
+org/ejercicio/Validation/FechaFutura.class
+org/ejercicio/Repository/TareaRepository.class
